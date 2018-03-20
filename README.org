@@ -1,0 +1,18 @@
+#+TITLE: pipenv sample usage
+
+[[https://docs.pipenv.org/][Pipenv]] is great.
+If you ever develop in Python, you should use it.
+
+It is not a replacement for pip and virtualenv,
+but an excellent wrapper that makes common project-based dependency management dead-simple.
+
+This repository contains a very simple example I recently
+used to explain some of the advantages.
+
+Of particular use may be the Dockerfile, which creates a fairly minimal image for you
+
+* Future Improvements
+
+- Document the advantages of pipenv on display here
+- Short screencast?
+- Make an ONBUILD version of the Dockerfile and push to hub.docker.com
