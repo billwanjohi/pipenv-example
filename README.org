@@ -1,7 +1,7 @@
 #+TITLE: pipenv sample usage
 
 If you develop applications in Python,
-[[https://docs.pipenv.org/][pipenv] is a very useful tool.
+[[https://docs.pipenv.org/][pipenv]] is a very useful tool.
 
 Tools with similar goals include pip-tools and poetry.
 
