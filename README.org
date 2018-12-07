@@ -1,7 +1,9 @@
 #+TITLE: pipenv sample usage
 
-[[https://docs.pipenv.org/][Pipenv]] is great.
-If you ever develop in Python, you should use it.
+If you develop applications in Python,
+[[https://docs.pipenv.org/][pipenv] is a very useful tool.
+
+Tools with similar goals include pip-tools and poetry.
 
 It is not a replacement for pip and virtualenv,
 but an excellent wrapper that makes common project-based dependency management dead-simple.
